@@ -1,3 +1,8 @@
+@font-face {
+font-family: GoodDog;
+src: url("../fonts/GoodDog.otf") format("opentype");
+}
+
 body{
    padding-top:0px;
    margin-top: 0px;
