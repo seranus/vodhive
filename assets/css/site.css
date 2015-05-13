@@ -3,16 +3,6 @@ font-family: GoodDog;
 src: url("../fonts/GoodDog.otf") format("opentype");
 }
 
-@font-face {
-font-family: OpenSans-Regular;
-src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
-}
-
-@font-face {
-font-family: OpenSans-Bold;
-src: url("../fonts/OpenSans-Bold.ttf") format("truetype");
-}
-
 body{
    padding-top:0px;
    margin-top: 0px;
